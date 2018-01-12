@@ -1,5 +1,7 @@
 # THEproject
-The Big Picture
+The Big Picture 
+<p>
+  
 For my project I have decided that I am going to create video game. The video game will resemble a type of Sonic or Steve the Dino game in which the main character will have to avoid obstacles. This game will be for all ages and will take the player on an adventurer. If the coding and game goes well, I hope to later incorporate a boss level. In terms of timing there will only be one level and within that level you will have to complete different objectives. This video game will be both enjoyable and fun. 
 
 First Round 
