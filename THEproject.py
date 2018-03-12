@@ -3,7 +3,7 @@ canvas = Screen()
 canvas.setup(400,200)
 
 kayla = Turtle()
-kayla.forward(50)          # make kayla draw a square
+kayla.forward(50)
 kayla.left(90)
 kayla.forward(50)
 kayla.left(90)
