@@ -20,6 +20,7 @@ Next Steps
 The next steps are to include obstacles. However instead of just one single obstacle, there will be multiple and the gamer will have to manuver the turtle around the obstacles safely. This can serve as a "boss level" for the game. 
 
 The Big Change
+<p>
 After a couple months, I felt like my project had a hit a dead end. After creating the race car game during a computer science class, my project no longer felt original. My once great idea for a project now seemed pointless. So I decided it was time for a change. One day after school, I was at home thinking about what to do for a project while on a call to my dad, then I heard my sister say "I beat Dad in Connect 4" and suddenly I knew what to do. I ended up on deciding to do code a Connect Four Game.
 
 The Big Picture
@@ -35,8 +36,10 @@ The Big Picture
   Since my project is already complete, for my test plan of Round 2 of this project, I would like to look into the statistics of the game and maybe create tips on the bottom so I could help the players win.
   
   Reflections and Revisions
+  <p>
   I am quite happy about how far my project has come and hopefully in college I will be able to touch it up.
   
   Next Steps
+  <p>
   The next steps are to include tips on the bottom of the page to help users.
   
